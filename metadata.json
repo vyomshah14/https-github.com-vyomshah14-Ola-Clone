@@ -1,0 +1,7 @@
+{
+  "name": "GoRide",
+  "description": "A seamless ride-booking application featuring real-time maps, intelligent address search, and fair price estimation for Bikes, Autos, and Cabs.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
